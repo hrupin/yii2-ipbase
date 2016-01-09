@@ -4,6 +4,7 @@
     "type": "yii2-extension",
     "keywords": ["yii2"," extension"," ipBase"],
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "hrupin",
