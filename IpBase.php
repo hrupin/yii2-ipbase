@@ -5,7 +5,7 @@ namespace hrupin\ipbase;
 /**
  * This is just an example.
  */
-class AutoloadExample extends \yii\base\Widget
+class IpBase extends \yii\base\Widget
 {
     public function run()
     {
